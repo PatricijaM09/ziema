@@ -1,0 +1,2 @@
+# ziema
+Pirmais paša repozitorijs
